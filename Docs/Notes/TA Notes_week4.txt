@@ -1,0 +1,37 @@
+
+
+Meeting Notes
+
+docs should be in main (merge in main)
+
+link on mattermost: import classes from different microservices
+
+only add a class for requests if there are a lot of methods that might send requests
+
+
+use chain of responsability with more than one check
+
+
+for true or false checks, use HTTP codes, do not create any classes
+
+pass data using DTOs
+
+do not share databases between microservices
+
+
+each microservice has the same API structure
+
+
+upload the assignment on gitlab. 
+tag the commit for the design patterns (link from TA)
+the rubric for the assignment is released this week, so have a look at that
+the feedback of the TA is based on the rubric, so follow all TA advice
+all code should be finished until 24th 
+all the design patterns should be done by 16th
+
+
+unit testing, integration testing, functional testing (explain in text) (not mandatory at the moment)
+
+push the code to main more often (twice a week)
+use the gitlab boards
+have a working demo for each of the week

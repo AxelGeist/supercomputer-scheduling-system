@@ -1,0 +1,14 @@
+- testing
+	- integration tests for each MS (see Authentication MS)
+	- boundary tests 
+		- CPU/GPU/memory
+		- 5 min rule
+		- maybe 6 hour rule
+- every issue on gitlab need
+	- short description
+	- assignee
+	- maybe milestone
+- tag final version of assignment & design pattern?!
+- no warnings in the main pipeline
+- include design pattern screenshots in report
+- upload Spring Retrospective

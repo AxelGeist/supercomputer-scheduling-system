@@ -1,0 +1,9 @@
+
+
+Meeting Notes
+
+- Final Report -> authentication of each microservice is missing
+- update build file -> enable to show test coverage
+- test controllers with integration tests
+
+- Timur & Ilia need to add more code
