@@ -1,3 +1,16 @@
+## DelftBlue Scheduling System
+
+The DelftBlue Scheduling System is an application designed to manage and allocate resources for university employees using the DelftBlue supercomputer. The system consists of several subdomains, including employees, faculty accounts, sysadmins, jobs, clusters of nodes, and the scheduler.
+
+# Features
+- User authentication: Users must be authenticated before making resource requests.
+- Resource allocation: The main function of the system is to allocate resources to users.
+- Bounded Contexts: The system includes several bounded contexts, including Users & Authentication, Jobs, Clusters, and the Scheduler.
+
+# UML Component Diagram
+![image](https://user-images.githubusercontent.com/73136957/229944811-20b837f7-eb1f-422a-a731-772d32cc8c9d.png)
+
+
 # Lab Template
 
 This template contains two microservices:
